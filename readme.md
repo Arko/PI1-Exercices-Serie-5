@@ -1,6 +1,6 @@
-# Série d'exercice N°5
+# Série d'exercices N°5
 
-## ==== Exercice 1 ====
+## Exercice 1
 
 Lire et comprendre:
 
@@ -17,7 +17,7 @@ Utilisez la documentation. Au besoin, recherchez les termes sur :
 - [MDN web docs](https://developer.mozilla.org/fr/search)
 
 
-## ==== Exercice 2 ====
+## Exercice 2
 
 1. Sur une page HTML, créez un champ de texte qui invite l'utilisateur à indiquer un texte et un bouton qui servira à confirmer l'entrée.
 2. Créez une fonction `montrerRésultat` qui affiche le contenu du champ lorsque l'utilisateur clique sur le bouton.
@@ -29,7 +29,7 @@ Documentation :
 [Solution](solutions/serie-5-exercice-2.html)
 
 
-## ==== Exercice 3 ====
+## Exercice 3
 
 Sur base de l'exercice 2, ajouter une condition: Si le contenu du champ est un nombre, ne pas l'afficher, mais en avertir l'utilisateur.
 
@@ -39,7 +39,7 @@ Documentation :
 [Solution](solutions/serie-5-exercice-3.html)
 
 
-## ==== Exercice 4 ====
+## Exercice 4
 
 1. Créez la fonction "estPair" qui prend un nombre comme argument et qui renvoie True s'il est pair.
 2. Si l'utilisateur entre un nombre, votre script indique le message "Votre nombre est pair" et l'inverse: si le nombre n'est pas pair, il indique "Votre nombre n'est pas pair".
@@ -48,7 +48,7 @@ Documentation :
 [Solution](solutions/serie-5-exercice-4.html)
 
 
-## ==== Exercice 5 ====
+## Exercice 5
 
 Créez la fonction "deplacement" avec deux arguments : direction et distance. La fonction renvoie à l'utilisateur, selon les arguments entrés, "Vous êtes allé(e) au/à `argument 1` pendant `argument 2` km."
 
@@ -57,7 +57,7 @@ Pour rappel : https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Fonctio
 [Solution](solutions/serie-5-exercice-5.html)
 
 
-## ==== Exercice 6 ====
+## Exercice 6
 
 Modifiez ce [code](serie-5-exercice-6-donnee.html) pour qu'il affiche les mots entrés sous forme de liste.
 
@@ -67,7 +67,7 @@ Documentation :
 [Solution](solutions/serie-5-exercice-6.html)
 
 
-## ==== Exercice 7 ====
+## Exercice 7
 
 Créez, sur une page HTML, une calculatrice qui permet à l'utilisateur, en cliquant sur des boutons, d'effectuer des additions et des soustractions (si vous avez envie, ajoutez aussi des multiplications et des divisions !).
 
@@ -78,7 +78,7 @@ Documentation :
 [Solution](solutions/serie-5-exercice-7.html)
 
 
-## ==== Exercice bonus 1 ====
+## Exercice bonus 1
 
 Lecture: lisez le [code suivant](https://codepen.io/DigitalDW/pen/LgLYGG) et complétez les commentaires.
 
@@ -92,7 +92,7 @@ Documentation :
 - [.preventDefault()](https://www.w3schools.com/jsref/event_preventdefault.asp)
 
 
-## ==== Exercice bonus 2 ====
+## Exercice bonus 2
 
 Complexifions la fonction deplacement de l'exercice 1.
 
